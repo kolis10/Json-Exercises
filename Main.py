@@ -8,7 +8,7 @@ import json
 
 # with open('users.json', 'r') as j: #you don't need to make an empty_var, just print
 #     print(json.load(j))
-
+ 
 with open('users.json', 'r') as j:
     jfile = json.load(j)
 
